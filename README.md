@@ -3,4 +3,4 @@ just another repository
 
 Hi Humans,
 
-This is Jialing, a beginner of the github.
+This is Jialing Zhang, a beginner of the github.
